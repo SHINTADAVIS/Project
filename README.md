@@ -1,2 +1,2 @@
 # Project
-SMARTPHONE PRODUCT REVIEW- A SENTIMENTAL ANALYSIS STUDY
+SmartPhone Product Review- An Emotion Analysis Study
